@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  font-family: -apple-system,BlinkMacSystemFont,system-ui,sans-serif;
+}
+
+.btn {
+  margin: 20px;
+  padding: 5px;
+  border-radius: 25px;
+  border-style: solid;
+  border-color: aquamarine;
+  background-color: aquamarine;
+  color: white;
+}
